@@ -9,8 +9,6 @@ package edu.uqu.cs;
 */
 import java.util.Scanner;
 
-import javax.net.ssl.SSLEngine;
-
 public class App{
 
 /**  
