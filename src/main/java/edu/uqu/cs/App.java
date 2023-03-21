@@ -49,9 +49,10 @@ public class App{
         
 
         /* Write your code here */
-    // Scanner scnr = new Scanner(System.in);
-    // System.out.println("Enter a string ");
-    // phoneKeypad(scnr.nextLine());
+     Scanner scnr = new Scanner(System.in);
+     System.out.println("Enter a string ");
+     phoneKeypad(scnr.nextLine());
+     System.out.println("  ");
     twisters();
        //call method twisters()
        //prompt user to enter a string 
@@ -124,7 +125,6 @@ for(char cha :str.toUpperCase().toCharArray()){
         default:
     
     }
-   // System.out.print(r);
     }
 }
 }
